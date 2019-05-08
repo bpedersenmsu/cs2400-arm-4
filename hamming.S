@@ -25,12 +25,12 @@
 
 		;		Your code here
 
-data	DCD		0b10100100101
-recv    DCD     0b101111010100101
+data		DCD	 	0b10100100101
+recv    	DCD     	0b101111010100101
 
-noer    DCD     0x00
-onee    DCD     0x01
+noer    	DCD     	0x00
+onee    	DCD     	0x01
 
-case    FILL    4
-berr    FILL    4
-corr    FILL    4
+case    	FILL    	4
+berr    	FILL    	4
+corr    	FILL    	4
